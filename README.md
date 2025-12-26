@@ -1,2 +1,2 @@
 # GeeksforGeeks
-Solution for GeeksforGeeks Practice Problems(Java,Python,C)
+Solution for GeeksforGeeks Practice Problems(Java,Python,C++)
